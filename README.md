@@ -2,7 +2,7 @@
 
 ## Step 1 - Climate Analysis and Exploration
 
-Used Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+Used Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis was completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 * Chose a start date and end date for your trip. Make sure that your vacation range is approximately 3-15 days total.
 
